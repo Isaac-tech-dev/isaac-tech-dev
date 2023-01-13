@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Isaac Ayeni</h1>
 <h3 align="center">A passionate Full Stack Software Developer and Android Developer from Nigeria</h3>
 
@@ -25,3 +26,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaac-tech-dev&show_icons=true&locale=en" alt="isaac-tech-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaac-tech-dev&" alt="isaac-tech-dev" /></p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaac-tech-dev&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isaac-tech-dev&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isaac-tech-dev&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=isaac-tech-dev&theme=dracula)
