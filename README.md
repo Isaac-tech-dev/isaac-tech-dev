@@ -1,14 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Isaac Ayeni</h1>
-<h3 align="center">An aspiring passionate Full Stack Software Developer|| UI/UX Designer ||  Android Developer from Nigeria</h3>
+<h3 align="center">An passionate Mobile Engineer|| FrontEnd Engineer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaac-tech-dev&label=Profile%20views&color=0e75b6&style=flat" alt="isaac-tech-dev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, ASP NET, JAVA Spring Boot**
+- 🌱 I’m currently write **React Native, React JS, Next JS**
+  
+- 🌱 I’m currently learning **Node JS, Express JS**
 
-- 💬 Ask me about **Html, Css, JavaScript, Java, Android**
+- 💬 Ask me about **Html, Css, JavaScript, TypeScript, React, React Native, Android, IOS**
 
 - 📫 How to reach me **ayeniisaac1on1@gmail.com**
 
