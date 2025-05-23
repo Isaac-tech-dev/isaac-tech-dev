@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Isaac Ayeni</h1>
-<h3 align="center">An passionate Mobile Engineer|| FrontEnd Engineer from Nigeria</h3>
+<h3 align="center">An passionate Mobile Engineer || FrontEnd Engineer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaac-tech-dev&label=Profile%20views&color=0e75b6&style=flat" alt="isaac-tech-dev" /> </p>
 
